@@ -1,2 +1,2 @@
 # Chatbot_for_vk
-Bot for flight registration
+Bot for flight registration and creat ticets
